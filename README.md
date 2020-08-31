@@ -1,9 +1,6 @@
 <div align=center>
-  
   # Hello, World!
-	
   ![2d8ee815146390d567706f2c7b5c2916](https://user-images.githubusercontent.com/28856527/88185819-5b18a780-cc6f-11ea-9e78-a4a9af278960.gif)
-	
 </div>
 
 ---
